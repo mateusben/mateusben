@@ -1,5 +1,5 @@
 -#sobre mim 
-- 👋 Hi, I’m @mateusben
+- 👋 Hi, I’m **mateusben**
 - meu gmail de contato é mateus.ben@escola.pr.gov.br
 - hoje eu estou interessado em aprender a programar novas linguagem
 - 👀 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
